@@ -1,9 +1,5 @@
 # DEAL WITH C++
-Deal with C++ is a website which aims at clarifying the basics
-of C++ programming language. The website is built using HTML,CSS.
-
-
-# SCREENSHOTS
+## SCREENSHOTS
 <img width="954" alt="page1" src="https://user-images.githubusercontent.com/61706649/137514994-7e208f31-e20c-421b-9985-493848f7b64f.png">
 <img width="952" alt="page2" src="https://user-images.githubusercontent.com/61706649/137515008-59ff7bd4-e3db-4104-bfc7-0ef63e858942.png">
 <img width="954" alt="age3" src="https://user-images.githubusercontent.com/61706649/137515019-454e5b8d-3639-4e7d-8cd4-e9679b4c5ec5.png">
